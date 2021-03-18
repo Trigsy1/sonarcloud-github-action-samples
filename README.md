@@ -1,4 +1,4 @@
-This repository contains a few sample projects that show how to configure source code analysis from [GitHub Actions](https://developer.github.com/actions/).
+DG This repository contains a few sample projects that show how to configure source code analysis from [GitHub Actions](https://developer.github.com/actions/).
 
 Each sample project is analyzed through a pull request. Results are displayed in both SonarCloud and GitHub. A comment and a check are published on the latter.
 
